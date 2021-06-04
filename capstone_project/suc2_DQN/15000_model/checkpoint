@@ -1,0 +1,4 @@
+model_checkpoint_path: "model"
+all_model_checkpoint_paths: "..\\5000_model\\model"
+all_model_checkpoint_paths: "..\\10000_model\\model"
+all_model_checkpoint_paths: "model"
